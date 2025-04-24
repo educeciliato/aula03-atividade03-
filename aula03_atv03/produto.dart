@@ -1,5 +1,5 @@
 import 'categoria.dart';
-import 'unidade_de_medida.dart';
+import 'unidade_medida.dart';
 class Produto {
   String nome;
   String descricao;
