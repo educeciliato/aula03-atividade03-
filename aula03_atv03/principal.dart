@@ -1,6 +1,6 @@
 import 'categoria.dart';
-import 'unidade_de_medida.dart';
 import 'produto.dart';
+import 'unidade_medida.dart';
 
 void main() {
   Categoria alimentos = Categoria('Alimentos');
